@@ -25,12 +25,14 @@ nav ul li a {
     padding: 20px;
 }
 
-/* Định dạng phần liên lạc */
+/* Định dạng phần liên lạc (ảnh nền online) */
 #lienlac {
-    background: url('https://www.transparenttextures.com/patterns/diagmonds.png');
+    background: url('https://media.istockphoto.com/id/1205872379/vector/abstract-background-of-smooth-curves.jpg?s=612x612&w=0&k=20&c=iSVtjNn-UVardlSWofafiwyoci93HEzvB647mz119EI=');
     background-repeat: repeat;
+    background-size: cover;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
+    color: rgb(22, 3, 3);
 }
 
 /* Định dạng tiêu đề */
